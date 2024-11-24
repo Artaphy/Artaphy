@@ -35,4 +35,7 @@ In a group of just 23 people, the probability of at least two people sharing the
 
 ---
 
-Feel free to check out my repositories for some cool Minecraft plugins and Java projects. Don't hesitate to reach out if you want to collaborate on a Minecraft project or just chat about Java development!
+# Statistics
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artaphy&theme=apprentice)
+![Activity Graph](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
